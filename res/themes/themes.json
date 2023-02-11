@@ -1,0 +1,20 @@
+{
+	"Atom_One_Dark_Contrast.theme.json": {
+		"name": "Atom_One_Dark_Contrast",
+		"URL": "res/themes/Atom_One_Dark_Contrast.theme.json"
+	},
+	"arc-theme.theme.json": {
+		"name": "Arc",
+		"URL": "res/themes/Arc_Theme.theme.json"
+	},
+	"Material Palenight Contrast.theme.json": {
+		"name": "Material Palenight Contrast",
+		"URL": "res/themes/Material Palenight Contrast.theme.json"
+	},
+
+	"vuesion_theme.theme.json": {
+		"name": "vuesion",
+		"URL": "res/themes/vuesion_theme.theme.json"
+	}
+
+}
